@@ -564,6 +564,7 @@ self.C3_JsPropNameTable = [
 	{Menu_Active: 0},
 	{Menu_Passive: 0},
 	{TiledBackground: 0},
+	{Sprite: 0},
 	{MenuPassive: 0},
 	{menu: 0}
 ];
